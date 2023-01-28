@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mostly use gitlab as my uni uses it
 
 <!--
 **yypy22/yypy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
