@@ -8,10 +8,13 @@
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%23404d59.svg?style=for-the-badge&logo=spring&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![XML](https://img.shields.io/badge/xml-6DA55F?style=for-the-badge&logo=xml&logoColor=white)
+![Shell](https://img.shields.io/badge/-shell-%43B02A?style=for-the-badge&logo=shell&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-20232A?style=for-the-badge&logo=jquery&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-593D88?style=for-the-badge&logo=docker&logoColor=white)
+
+![HTML](https://img.shields.io/badge/html-%2357A143.svg?&style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1BB91F?style=for-the-badge&logo=css&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yypy22&show_icons=true&theme=tokyonight)
 
