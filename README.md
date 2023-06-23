@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=F76B84&lines=Thank+you+for+visiting+my+github!+I use gitlab more)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+github!+I use gitlab more)]
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yypy22&show_icons=true&theme=tokyonight)
