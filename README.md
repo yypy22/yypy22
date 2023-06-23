@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yypy22&show_icons=true&theme=tokyonight)
 
