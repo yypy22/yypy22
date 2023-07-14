@@ -14,7 +14,7 @@
 
 📈 Data Science online course at Tokyo University
 
-📈 Passed mid-term evaluation of GSOC2023
+📈 Passed mid-term evaluation of GSOC2023 on NLP and will keep working on the project.
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
