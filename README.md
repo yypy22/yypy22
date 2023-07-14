@@ -38,7 +38,5 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user={yypy22}&theme={tokyonight})
 ![](https://komarev.com/ghpvc/?username=yypy22&style=for-the-badge)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yypy22)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Other Profile
 https://www.kaggle.com/ppyy22
