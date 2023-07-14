@@ -2,7 +2,7 @@
 
 ✍🏻 I'm a second-year computer science student based in the UK.
 
-📆 Currently, I'm dedicating my efforts to honing my skills in AI. Additionally, I actively study data structures and algorithms in Python.
+📆 Currently, I'm dedicating my efforts to honing my skills in AI. Additionally, I actively study data structures and algorithms in Python and C++.
 
 👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field.
 
