@@ -1,3 +1,4 @@
+## Hi there ==
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
 ✍🏻 I'm a second-year computer science student based in the UK.
@@ -8,19 +9,19 @@
 
 📈 I have experience working with Python, JavaScript, Django, and JQuery with large-scale development
 
-📈 Kaggle Silver medal solo with table data competition
-
 📈 NLP summer school at Tokyo University
 
 📈 Data Science online course at Tokyo University
-
-📈 Passed mid-term evaluation of GSOC2023 on NLP and will keep working on the project.
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
 ✈️ I love traveling too. I have been to Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. 
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
+
+## Achievements
+👑 Passed mid-term evaluation of GSOC2023 on NLP and will keep working on the project.
+👑 Kaggle Silver medal solo with table data competition
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
