@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
-✍🏻 I'm a second-year computer science student based in the uk.
+✍🏻 I'm a second-year computer science student based in the UK.
 
 📆 Currently, I'm dedicating my efforts to honing my skills in AI. Additionally, I actively study data structures and algorithms in Python.
 
 👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field.
 
-📈 I have experience working with Python and Django with large scale development
+📈 I have experience working with Python and Django with large-scale development
 📈 Kaggle Silver medal solo
 📈 NLP summer school at Tokyo University
 📈 Data Science online course at Tokyo University
