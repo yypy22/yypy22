@@ -1,4 +1,4 @@
-## Hi There 
+## 👏 Hi There 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
 ✍🏻 I'm a second-year computer science student based in the UK.
@@ -21,6 +21,7 @@
 
 ## Achievements
 👑 Passed mid-term evaluation of GSOC2023 on NLP and will keep working on the project.
+
 👑 Kaggle Silver medal solo with table data competition
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
