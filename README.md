@@ -7,9 +7,14 @@
 👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field.
 
 📈 I have experience working with Python and Django with large-scale development
+
 📈 Kaggle Silver medal solo
+
 📈 NLP summer school at Tokyo University
+
 📈 Data Science online course at Tokyo University
+
+📈 Passed mid-term evaluation of GSOC2023
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
