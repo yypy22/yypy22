@@ -8,7 +8,7 @@
 
 📈 I have experience working with Python, JavaScript, Django, and JQuery with large-scale development
 
-📈 Kaggle Silver medal solo
+📈 Kaggle Silver medal solo with table data competition
 
 📈 NLP summer school at Tokyo University
 
