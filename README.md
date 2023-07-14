@@ -1,4 +1,4 @@
-## Hi there ==
+## Hi There 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
 ✍🏻 I'm a second-year computer science student based in the UK.
