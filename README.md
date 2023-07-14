@@ -6,7 +6,7 @@
 
 👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field.
 
-📈 I have experience working with Python and Django with large-scale development
+📈 I have experience working with Python, JavaScript, Django, and JQuery with large-scale development
 
 📈 Kaggle Silver medal solo
 
