@@ -11,7 +11,7 @@
 📈 NLP summer school at Tokyo University
 📈 Data Science online course at Tokyo University
 
-🍜 In my free time, I enjoy exploring new food spots or cafes.
+🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
