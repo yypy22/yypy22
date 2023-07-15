@@ -9,7 +9,7 @@
 
 🛜 NLP summer online school at Tokyo University
 
-🛜　Data Science online course at Tokyo University
+🛜 Data Science online course at Tokyo University
 
 🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
 
