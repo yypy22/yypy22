@@ -1,13 +1,13 @@
 ## 👏 Hi There 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
-✍🏻 I'm a second-year computer science student based in the UK.
+🧑‍🎓 I'm a second-year computer science student based in the UK.
 
-📆 Currently, I'm dedicating my efforts to honing my skills in AI. Additionally, I actively study data structures and algorithms in Python and C++.
+📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
 
-👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field.
+👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field such as DL.
 
-📈 I have experience working with Python, JavaScript, Django, and JQuery with large-scale development
+📈 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
 
 📈 NLP summer school at Tokyo University
 
@@ -15,7 +15,7 @@
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
-✈️ I love traveling too. I have been to Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. 
+✈️ I love traveling too. I have been to Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of others in my bucket list 
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
@@ -23,6 +23,8 @@
 👑 Passed mid-term evaluation of GSOC2023 on NLP and will keep working on the project.
 
 👑 Kaggle Silver medal solo with table data competition
+
+## Stats
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
