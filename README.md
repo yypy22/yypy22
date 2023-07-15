@@ -7,11 +7,11 @@
 
 👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field such as DL.
 
-📈 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
+🛜 NLP summer online school at Tokyo University
 
-📈 NLP summer school at Tokyo University
+🛜　Data Science online course at Tokyo University
 
-📈 Data Science online course at Tokyo University
+🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
