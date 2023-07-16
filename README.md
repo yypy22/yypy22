@@ -48,6 +48,3 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user={yypy22}&theme={tokyonight})
 ![](https://komarev.com/ghpvc/?username=yypy22&style=for-the-badge)
-
-## Other Profile
-https://www.kaggle.com/ppyy22
