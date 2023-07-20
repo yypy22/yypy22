@@ -45,7 +45,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yypy22&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yypy22&hide_progress=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user={yypy22}&theme={tokyonight})
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yypy22)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=yypy22&style=for-the-badge)
