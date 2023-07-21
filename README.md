@@ -20,7 +20,7 @@
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
 ## Achievements
-👑 Passed mid-term evaluation of Google Summer of Code 2023 on NLP and will keep working on the project.
+👑 Passed mid-term evaluation of Google Summer of Code 2023 on NLP
 
 👑 Kaggle Silver medal solo with table data competition
 
