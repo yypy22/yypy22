@@ -1,7 +1,7 @@
 ## 👏 Welcome 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
-🧑‍🎓 I'm a second-year computer science student based in the UK.
+🧑‍🎓 I'm a second-year computer science student at British University.
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
 
@@ -15,7 +15,7 @@
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
-✈️ I love traveling too. I have been to Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of others in my bucket list 
+✈️ I love traveling too. I have been to Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of others on my bucket list 
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
