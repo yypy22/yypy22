@@ -1,7 +1,7 @@
 ## 👏 Welcome 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
-🧑‍🎓 I'm a second-year computer science student at British University.
+🧑‍🎓 I'm a third-year computer science student at British University.
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
 
@@ -20,7 +20,7 @@
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
 ## Achievements
-👑 Passed mid-term evaluation of Google Summer of Code 2023 on NLP
+👑 Completed Google Summer of Code 2023 on NLP
 
 👑 Kaggle Silver medal solo with table data competition
 
