@@ -1,6 +1,8 @@
 ## 👏 Welcome 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yypy22)](https://github.com/ryo-ma/github-profile-trophy)
+
 🧑‍🎓 I'm a third-year computer science student at British University.
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
@@ -23,8 +25,6 @@
 👑 Completed Google Summer of Code 2023 on NLP
 
 👑 Kaggle Silver medal solo with table data competition
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yypy22)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Stats
 
