@@ -1,7 +1,7 @@
 ## 👏 Welcome 👏
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B84&width=435&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yypy22&theme=algolia&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yypy22&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 🧑‍🎓 I'm a third-year computer science student at British University.
 
