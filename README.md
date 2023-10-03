@@ -24,6 +24,8 @@
 
 👑 Kaggle Silver medal solo with table data competition
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yypy22)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Stats
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
