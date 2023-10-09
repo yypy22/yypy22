@@ -7,7 +7,7 @@
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
 
-👨🏻‍💻 I'm highly interested in HCI or ML, with a specific focus on NLP, along with a keen interest in the other AI field such as DL.
+👨🏻‍💻 I'm highly interested in HCI, NLP, ML, and Cyber Security.
 
 📶 NLP summer online school at Tokyo University
 
