@@ -36,6 +36,6 @@ https://docs.google.com/document/d/1yxQH6hk-_fjIM9U0fx14OcezMwBUcIlM2WC-AM8O5Y8/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yypy22&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yypy22&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yypy22&hide_progress=true&hide=css)
 
 ![](https://komarev.com/ghpvc/?username=yypy22&style=for-the-badge)
