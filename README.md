@@ -21,7 +21,7 @@
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
 ## Achievements
-👑 Completed Google Summer of Code 2023 on NLP
+👑 Completed Google Summer of Code 2023 on NLP for Apertium
 https://docs.google.com/document/d/1yxQH6hk-_fjIM9U0fx14OcezMwBUcIlM2WC-AM8O5Y8/edit#heading=h.vlfz4yyo3bl2
 
 👑 Kaggle Silver medal solo with tabular data competition
