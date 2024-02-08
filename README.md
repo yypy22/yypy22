@@ -6,7 +6,7 @@
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
 
-👨🏻‍💻 I'm highly interested in NLP, Computer Vision, and Deel Learning.
+👨🏻‍💻 I'm highly interested in NLP and Deel Learning.
 
 📶 NLP summer online school at Tokyo University
 
