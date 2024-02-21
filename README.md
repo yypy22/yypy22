@@ -16,7 +16,7 @@
 
 🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
 
-✈️ I love traveling too. I have been to Denmark, Switzerland, Germany, Austria, Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of other countries on my bucket list 
+✈️ I love traveling, and I have been to Denmark, Switzerland, Germany, Austria, Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of other countries are on my bucket list
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
