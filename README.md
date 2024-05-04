@@ -8,9 +8,9 @@
 
 👨🏻‍💻 I'm highly interested in NLP and Deel Learning.
 
-📶 NLP summer online school at Tokyo University
+📶 NLP summer online school at the University of Tokyo
 
-📶 Data Science online course at Tokyo University
+📶 Data Science online course at the University of Tokyo
 
 🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
 
