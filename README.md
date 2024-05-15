@@ -4,7 +4,7 @@
 
 🧑‍🎓 I'm a third-year computer science student in the UK.
 
-📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. Additionally, I actively study data structures and algorithms in Python and C++.
+📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. 
 
 👨🏻‍💻 I'm highly interested in NLP and Deel Learning.
 
@@ -12,13 +12,11 @@
 
 📶 Data Science online course at the University of Tokyo
 
-🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development
+🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development in the data feed team
 
-🍜 In my free time, I enjoy exploring new food spots or cafes. NO RAMEN, NO LIFE
+🍜 In my free time, I enjoy exploring new food spots or cafes.
 
 ✈️ I love traveling, and I have been to Italy, Denmark, Switzerland, Germany, Austria, Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of other countries are on my bucket list
-
-🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
 ## Achievements
 👑 Completed Google Summer of Code 2023 on NLP for Apertium
