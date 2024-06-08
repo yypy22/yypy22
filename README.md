@@ -14,7 +14,7 @@
 
 🏢 I have experience working as a summer intern with Python, JavaScript, HTML, CSS, Django, and JQuery with large-scale development in the data feed team
 
-🍜 In my free time, I enjoy exploring new food spots or cafes.
+🍜 In my free time, I enjoy exploring new food spots or cafes. My favourite food is Yokohama Iekei Ramen
 
 ✈️ I love traveling, and I have been to Italy, Denmark, Switzerland, Germany, Austria, Scotland, England, Wales, France, Spain, Thailand, Cambodia, and Vietnam. Lots of other countries are on my bucket list
 
