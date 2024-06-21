@@ -6,7 +6,7 @@
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. 
 
-👨🏻‍💻 I'm highly interested in NLP and Deel Learning.
+👨🏻‍💻 I'm highly interested in NLP, Deel Learning, and Cognitive Science.
 
 📶 NLP summer online school at the University of Tokyo
 
