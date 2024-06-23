@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yypy22&theme=algolia&title=MultiLanguage,Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-🧑‍🎓 I'm a third-year computer science student.
+🧑‍🎓 I'm a third-year computer science student, and will be PhD candidate from September.
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. 
 
