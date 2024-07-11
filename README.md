@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yypy22&theme=algolia&title=MultiLanguage,Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-🧑‍🎓 I will be new Ph.D. student(Machine Learning) starting this September. I was awarded BSc(Hons) Computer Science.
+🧑‍🎓 I am becoming new Ph.D. student(Machine Learning) starting this September. I was awarded BSc(Hons) Computer Science.
 
 📚 Currently, I'm dedicating my efforts to honing my skills in the AI field. 
 
